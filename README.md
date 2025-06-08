@@ -5,5 +5,8 @@ Below is the display of the Exported PDF.
 ![image](https://github.com/user-attachments/assets/7e540251-4bb5-4942-add8-52cdcc4b372a)
 
 
+**"Selected as an Excellent Plugin by the Typecho Community: [https://typecho.work/archives/PDFPreview.html](https://typecho.work/archives/PDFPreview.html)"**
+
+- [PDFExport](#pdfexport) - [入选 Typecho 社区优秀插件](https://typecho.work/archives/PDFPreview.html)
 
 Author: Kaitoven Chen (formerly Bruce Kevin Chen)
