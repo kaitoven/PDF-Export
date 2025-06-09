@@ -9,6 +9,10 @@ Selected as an Excellent Plugin by the Typecho Community
 
 - [PDFExport](#pdfexport) - [入选 Typecho 社区优质插件](https://typecho.work/archives/PDFPreview.html)
 
-  后续会解决导出的PDF目录链接无效问题，缺少这方面的技术学习，应该会等很久...敬请期待吧
+
+**If you want to use it with your website theme, please visit: [usage instructions](https://forum.typecho.org/viewtopic.php?p=61053#p61053) **
+
+
+后续会解决导出的PDF目录链接无效问题，缺少这方面的技术学习，应该会等很久...敬请期待吧
 
 Author: Kaitoven Chen (formerly Bruce Kevin Chen)
