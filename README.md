@@ -1,4 +1,7 @@
 # PDF-Export
+
+Latest 目录跳转生效！！！ 已更新代码。
+
 The plugin of my personal web「Kaitoven Lab」
 Below is the display of the Exported PDF.
 
